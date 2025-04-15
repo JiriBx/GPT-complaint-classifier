@@ -1,4 +1,4 @@
-# 🧾 GPT Complaint Classifier for Au Pair Agency
+# 🧾 AI Complaint Classifier for Au Pair Agency
 
 This repo contains a lightweight tool that helps an au pair agency identify and categorize customer complaints, so they can report them properly to the government.
 
