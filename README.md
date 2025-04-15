@@ -26,6 +26,7 @@ It only makes the detailed follow-up API calls for cases flagged as actual compl
 ## 🛠️ How It Works
 
 - Python script using OpenAI's `gpt-4o` model
+- Data anonimization
 - Runs through each row in the spreadsheet
 - Prompts GPT to classify and categorize
 - Adds new columns with results
